@@ -1,0 +1,7 @@
+deepface==0.0.84
+speechbrain
+torch
+torchaudio
+httpx
+opencv-python
+openai-whisper

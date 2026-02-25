@@ -1,0 +1,6 @@
+# Request
+---
+# Response
+string user_name      # Il nome capito (es. "Mario")
+float32[] voice_embedding # Se il modello audio calcola vettori
+

@@ -1,0 +1,9 @@
+string ITALIAN="Italian"
+string ENGLISH="English"
+int32 NO_SET=-1
+
+string speech
+string language
+int32 volume -1
+---
+string ack

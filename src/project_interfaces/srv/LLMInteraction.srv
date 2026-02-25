@@ -1,0 +1,10 @@
+# REQUEST
+string user_input
+string user_id
+string user_name
+bool start
+---
+# RESPONSE
+string text_response
+string operation
+string[] item_content
